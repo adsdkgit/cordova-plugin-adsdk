@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-adsdk",
-  "version": "1.0.1",
-  "description": "Show adsdk video and fullscreen ads",
+  "version": "1.0.0",
+  "description": "Show Ad-Sdk Ad",
   "cordova": {
     "id": "cordova-plugin-adsdk",
     "platforms": [
@@ -10,19 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adsdkgit/cordova-plugin-adsdk.git"
+    "url": "git+https://github.com/miladesign/cordova-plugin-adsdk.git"
   },
   "keywords": [
     "cordova",
     "plugin",
     "ad",
-    "video",
     "adsdk",
     "monetisation",
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "devDependencies": {
+"devDependencies": {
     "cordova": ">=3.0.0"
   },
   "engines": [
@@ -31,10 +30,10 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "adsdk",
-  "license": "adsdk",
+  "author": "Milad Mohammadi",
+  "license": "MilaDesign",
   "bugs": {
-    "url": "https://github.com/adsdkgit/cordova-plugin-adsdk/issues"
+    "url": "https://github.com/miladesign/cordova-plugin-adsdk/issues"
   },
-  "homepage": "https://github.com/adsdkgit/cordova-plugin-adsdk#readme"
+  "homepage": "https://github.com/miladesign/cordova-plugin-adsdk#readme"
 }

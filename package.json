@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-adsdk",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Show Ad-Sdk Ad",
   "cordova": {
     "id": "cordova-plugin-adsdk",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miladesign/cordova-plugin-adsdk.git"
+    "url": "git+https://github.com/adsdkgit/cordova-plugin-adsdk.git"
   },
   "keywords": [
     "cordova",
@@ -33,7 +33,7 @@
   "author": "Milad Mohammadi",
   "license": "MilaDesign",
   "bugs": {
-    "url": "https://github.com/miladesign/cordova-plugin-adsdk/issues"
+    "url": "https://github.com/adsdkgit/cordova-plugin-adsdk/issues"
   },
-  "homepage": "https://github.com/miladesign/cordova-plugin-adsdk#readme"
+  "homepage": "https://github.com/adsdkgit/cordova-plugin-adsdk#readme"
 }

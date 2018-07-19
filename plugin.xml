@@ -2,14 +2,14 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-plugin-adsdk"
-    version="1.0.0">
+    version="1.0.3">
     <name>Cordova Ad-Sdk Plugin</name>
     <description>Show Ad-Sdk Ad</description>
     <author>Milad Mohammadi</author>	
     <license>miladesign.ir</license>
     <keywords>cordova,plugin,ad,adsdk,monetisation</keywords>
-    <repo>https://github.com/miladesign/cordova-plugin-adsdk</repo>
-    <issue>https://github.com/miladesign/cordova-plugin-adsdk/issues</issue>	
+    <repo>https://github.com/adsdkgit/cordova-plugin-adsdk</repo>
+    <issue>https://github.com/adsdkgit/cordova-plugin-adsdk/issues</issue>	
 	<engines>
 	    <engine name="cordova" version=">=3.0.0" />
 	</engines>

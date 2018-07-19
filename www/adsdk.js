@@ -1,13 +1,38 @@
 module.exports = {
-    initialize: function(developerId, test, enable) {
+
+
+    //
+
+    init: function (developerId,isTestMode,isEnable)
+    {
+        var self = this;
         cordova.exec(
-			function (result) {
-				console.log('Initialize Success.');
-			},
-			null,
-            'AdSdk',
+            function (result) {
+                console.log('setUp succeeded.' + result);
+
+                if (typeof result == "string") {
+                   
+
+                }
+                else {
+                    //if (result["event"] == "onXXX") {
+                    //	//result["message"]
+                    //	if (self.onXXX)
+                    //		self.onXXX(result);
+                    //}
+                }
+            },
+            function (error) {
+                console.log('setUp failed.');
+            },
+            'adsdkCordovaInterface',
             'init',
-            [developerId, test, enable]
-        ); 
+            [developerId,isTestMode,isEnable]
+        );
     }
+
+
+
+
+
 };

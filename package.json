@@ -1,0 +1,40 @@
+{
+  "name": "cordova-plugin-adsdk",
+  "version": "1.0.0",
+  "description": "Show adsdk video and fullscreen ads",
+  "cordova": {
+    "id": "cordova-plugin-adsdk",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adsdkgit/cordova-plugin-adsdk.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "ad",
+    "video",
+    "adsdk",
+    "monetisation",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "devDependencies": {
+    "cordova": ">=3.0.0"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "adsdk",
+  "license": "adsdk",
+  "bugs": {
+    "url": "https://github.com/adsdkgit/cordova-plugin-adsdk/issues"
+  },
+  "homepage": "https://github.com/adplaygit/cordova-plugin-adsdk#readme"
+}

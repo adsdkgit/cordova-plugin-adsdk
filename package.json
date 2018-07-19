@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-adsdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Show adsdk video and fullscreen ads",
   "cordova": {
     "id": "cordova-plugin-adsdk",
@@ -36,5 +36,5 @@
   "bugs": {
     "url": "https://github.com/adsdkgit/cordova-plugin-adsdk/issues"
   },
-  "homepage": "https://github.com/adplaygit/cordova-plugin-adsdk#readme"
+  "homepage": "https://github.com/adsdkgit/cordova-plugin-adsdk#readme"
 }

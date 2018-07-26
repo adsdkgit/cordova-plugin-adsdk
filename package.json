@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-adsdk",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Show adsdk video and fullscreen ads",
   "cordova": {
     "id": "cordova-plugin-adsdk",

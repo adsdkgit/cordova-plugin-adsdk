@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="cordova-plugin-adsdk"
-        version="1.0.9">
+        version="1.0.10">
 
     <name>Cordova adsdk plugin</name>
     <description>Show adsdk full screen ad and rewarded video ad</description>
@@ -45,7 +45,7 @@
                     <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
                 </intent-filter>
             </receiver>
-            <activity android:name="ir.myteam.adsdk.AdShowActivity" android:label="" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+            <activity android:name="ir.myteam.adsdk.AdShowActivity" android:label="" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:icon="@android:color/transparent" />
             <service android:name="ir.myteam.adsdk.ConnectionService" android:enabled="true" android:exported="true" />
         </config-file>
 

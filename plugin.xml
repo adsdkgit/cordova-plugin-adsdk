@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="cordova-plugin-adsdk"
-        version="1.0.10">
+        version="1.0.11">
 
     <name>Cordova adsdk plugin</name>
     <description>Show adsdk full screen ad and rewarded video ad</description>
@@ -50,7 +50,7 @@
         </config-file>
 
 
-        <source-file src="src/android/adsdkv3.jar" target-dir="libs" />
+        <source-file src="src/android/adsdkv4.jar" target-dir="libs" />
     </platform>
 
     <!-- ios -->
